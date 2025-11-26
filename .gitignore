@@ -23,3 +23,8 @@ Thumbs.db
 
 # Environment variables
 .env
+
+# data files
+data/bronze/*
+data/silver/*
+data/gold/*
