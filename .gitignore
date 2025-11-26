@@ -26,5 +26,8 @@ Thumbs.db
 
 # data files
 data/01-bronze/*
+!data/01-bronze/
 data/02-silver/*
+!data/02-silver/
 data/03-gold/*
+!data/03-gold/
