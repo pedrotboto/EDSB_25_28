@@ -4,8 +4,12 @@
 # Example common packages (uncomment if needed)
 numpy<2
 pandas
+
 scikit-learn
-matplotlib
-dotenv
 xgboost
 shap
+
+dotenv
+
+matplotlib
+seaborn
